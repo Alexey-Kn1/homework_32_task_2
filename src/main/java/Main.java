@@ -9,6 +9,9 @@ import org.apache.http.client.methods.HttpGet;
 import java.io.FileOutputStream;
 import java.io.InputStream;
 
+// Задача 1: https://github.com/Alexey-Kn1/homework_32_task_1
+// Почему-то ссылка не прикрепилась, а форма отправки не позволяет оправить ДЗ повторно до его проверки
+
 public class Main {
     private static final String API_KEY = "TODO: PASTE TOKEN HERE!!!!!!";
 
